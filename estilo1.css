@@ -1,0 +1,68 @@
+#lienzo{
+	float: left;
+		margin: auto;
+}
+
+#lienzo2{
+	float: right;
+	margin: auto;
+}
+
+#lienzo3{
+	float: left;
+		margin: auto;
+}
+
+#lienzo4{
+	float: right;
+	margin: auto;
+}
+
+#lienzo5{
+	float: center;
+	margin: auto;
+}
+section{
+	width: 1200px;
+	height: 700px;
+	position: center;
+	margin: auto;
+}
+body{
+  background-color: #088A29;
+}
+
+#encabezado{
+  color: #fff;
+  text-align:center;
+	background-color: #0A2A12;
+}
+#pie{
+	background-color: #0A2A12;
+	clear: both;
+	margin-top: 10px;
+	text-align: center;
+	padding: 50px;
+  color: #fff;
+}
+#if{
+	width: 30px;
+	height: 30px;
+	float:left;
+	margin-left: 25px;
+	font-style: normal;
+	margin-bottom: 5px;
+  display:inline-flex;
+}
+#face{
+  border:5px;
+  width:30px;
+  height:30px;
+
+}
+#twitter{
+  border:5px;
+  width:30px;
+  height:30px;
+  margin-left: 16px;
+}
